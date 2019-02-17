@@ -1,0 +1,30 @@
+.bg-1 {
+    background-color: darkseagreen;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.first-image {
+    display:inline;
+    margin: 50px;
+    max-width: 500px;
+    max-height: auto;
+}
+.caption {
+    font-style:italic;
+}
+.col-sm-4 {
+    padding: 50px;
+}
+.logo {
+    max-width: 200px;
+    max-height: auto;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bg-3 {
+    background-color: darkseagreen;
+    color: white;
+    padding: 20px;
+}
