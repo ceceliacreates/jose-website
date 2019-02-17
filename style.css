@@ -5,10 +5,8 @@
     padding-bottom: 50px;
 }
 .first-image {
-    display:inline;
-    margin: 50px;
-    max-width: 500px;
-    max-height: auto;
+    display: inline;
+    max-width: 300px;
 }
 .caption {
     font-style:italic;
