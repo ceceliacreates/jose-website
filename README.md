@@ -3,4 +3,4 @@
 
 Created with Bootstrap
 
-Hosted on [GitHub Pages] (https://ceceliacreates.github.io/jose-website/) 
+Hosted on GitHub Pages (https://ceceliacreates.github.io/jose-website/) 
